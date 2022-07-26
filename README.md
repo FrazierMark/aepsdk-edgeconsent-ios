@@ -45,7 +45,7 @@ To add the AEPEdgeConsent Package to your application, from the Xcode menu selec
 
 `File > Swift Packages > Add Package Dependency...`
 
-Enter the URL for the AEPEdgeConsent package repository: `https://github.com/adobe/aepsdk-edgeconsent-ios.git`.
+Enter the URL for the AEPEdgeConsent package repository: `https://github.com/FrazierMark/aepsdk-edgeconsent-ios.git`.
 
 When prompted, make sure you change the branch to `main`. (Once the repo is public, we will reference specific tags/versions instead of a branch)
 
